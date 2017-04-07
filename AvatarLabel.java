@@ -1,10 +1,3 @@
-//Updated file 
-
-//checking for updated revision
-
-
-
-
 
 <!DOCTYPE html>
 <html lang="en">
