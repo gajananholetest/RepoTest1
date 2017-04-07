@@ -1,0 +1,28 @@
+<GitHub>
+	<File name="abc.txt">
+		<Path>/dir/</Path>
+		<Old_Rev>11</Old_Rev>
+		<New_Rev>1.0</New_Rev>
+		<Comment>Don't forget me this weekend!</Comment>
+	</File>
+	<File name="abc.txt">
+		<Path>/dir/</Path>
+		<Old_Rev>15</Old_Rev>
+		<New_Rev>1.1</New_Rev>
+		<Comment>Don't forget me this weekend!</Comment>
+	</File>
+	<File name="xyz.txt">
+		<Path>/dir1/</Path>
+		<Old_Rev>110</Old_Rev>
+		<New_Rev>1.0</New_Rev>
+		<Comment>Don't forget me this weekend!</Comment>
+	</File>
+	<File name="xyz.txt">
+		<Path>/dir1/</Path>
+		<Old_Rev>190</Old_Rev>
+		<New_Rev>1.1</New_Rev>
+		<Comment>Don't forget me this weekend!</Comment>
+	</File>
+</GitHub>
+
+1338f2b91f25b6ca3c5647a0050c236cf924276e
